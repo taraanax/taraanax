@@ -19,12 +19,12 @@ I am studying at Faculty of Computer and Information Science in Ljubljana.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=taraanax&layout=compact&theme=tokyonight&title_color=705493&icon_color=705493&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### ⋆˚☆˖° Contribution Graph
+<!--### ⋆˚☆˖° Contribution Graph
 
 <p align="center">
-<!--  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taraanax&bg_color=00000000&color=a738a5&line=a738a5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taraanax&bg_color=00000000&color=a738a5&line=a738a5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
+!--> 
 ### ⋆.˚ ☾⭒. Dev Quote
 
 <p align="center">
